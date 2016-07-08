@@ -1,0 +1,45 @@
+#container
+{
+    margin: 0 auto;
+    width: 960px;
+    background: #fff;
+}
+#header
+{
+    background: #ccc;
+    padding: 20px;
+}
+#content
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: left;
+}
+.main
+{
+    margin: 10px 0px 0px;
+    background: none;
+    border: 1px solid #E3E3E3;
+    padding: 15px;
+    height: 535px;
+}
+#footer
+{
+    background:#ccc;
+    text-align: center;
+    margin: 20px 0px 0px;
+    padding: 20px;
+    height: 5%;
+}
+
+form {
+    padding: 65px;
+    margin-left: 310px;
+    width: 230px;
+    background-color: rgb(207, 216, 163);
+    border-radius: 54px;
+    margin-top: 16px;
+}
+div#content {
+    background-color: cadetblue;
+}

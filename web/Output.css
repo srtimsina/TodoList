@@ -1,0 +1,33 @@
+#container
+{
+    margin: 0 auto;
+    width: 960px;
+    background: #fff;
+}
+#header
+{
+    background: #ccc;
+    padding: 20px;
+}
+
+#footer
+{
+    background:#ccc;
+    text-align: center;
+    margin: 20px 0px 0px;
+    padding: 20px;
+    height: 5%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 960px;
+}
+
+th {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
